@@ -4,7 +4,7 @@
     margin: 20px;
  } 
  #header-nav { 
-  background-color: lightsalmon;
+  background-color: lightpink;
   border-radius: 2;
   border: 10px;
   min-height: 120px;
@@ -20,5 +20,9 @@
   text-align: center;
    margin-top: 7px; 
   margin-bottom: 0; 
-   line-height: .75; 
+}
+.container h2{
+  color: Brown; 
+  font-family: New roman, Helvetica, sans-serif;
+  text-align: center;
 }
