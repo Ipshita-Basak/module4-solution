@@ -4,7 +4,7 @@
     margin: 20px;
  } 
  #header-nav { 
-  background-color: lightgreen;
+  background-color: #90EE90;
   border-radius: 2;
   border: 10px;
   min-height: 120px;
@@ -21,7 +21,7 @@
    margin-top: 7px; 
   margin-bottom: 0; 
 }
- h2{
+ h2 {
   color: Brown; 
   font-family: New roman, Helvetica, sans-serif;
   text-align: center;
