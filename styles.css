@@ -3,6 +3,11 @@
     font-family: New Roman, Helvetica, sans-serif;
     margin: 20px;
  } 
+h2 {
+  color: Brown; 
+  font-family: New roman, Helvetica, sans-serif;
+  text-align: center;
+}
  #header-nav { 
   background-color: #d1ffbd;
   border-radius: 2;
@@ -21,8 +26,4 @@
    margin-top: 7px; 
   margin-bottom: 0; 
 }
- .section h2 {
-  color: Brown; 
-  font-family: New roman, Helvetica, sans-serif;
-  text-align: center;
-}
+
