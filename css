@@ -1,1 +1,10 @@
-
+ body {
+    font-family: New Roman, Helvetica, sans-serif;
+    margin: 20px;
+ } 
+ #header-nav { 
+  background-color: lightsalmon;
+  border-radius: 2;
+  border: 10px;
+  min-height: 120px;
+}
